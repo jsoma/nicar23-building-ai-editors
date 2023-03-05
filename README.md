@@ -2,9 +2,9 @@
 
 Jonathan Soma, Columbia University, js4571@columbia.edu
 
-[The presentation as a PDF](Building AI editors.pdf)
+[The presentation as a PDF](Building%20AI%20editors.pdf)
 
-[Code snippets with spaCy and OpenAI](Code snippets.ipynb)
+[Code snippets with spaCy and OpenAI](Code%20snippets.ipynb)
 
 ### Every single link
 
